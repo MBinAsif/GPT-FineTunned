@@ -1,8 +1,7 @@
-!pip install streamlit
-
-!pip install datasets transformers
-!pip install transformers torch
-!pip install datasets
+pip install streamlit
+pip install datasets transformers
+pip install transformers torch
+pip install datasets
 
 from google.colab import drive
 import torch
