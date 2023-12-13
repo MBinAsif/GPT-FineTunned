@@ -2,6 +2,10 @@ pip install streamlit
 pip install datasets transformers
 pip install transformers torch
 pip install datasets
+import subprocess
+
+# Run 'pip install streamlit' using subprocess
+subprocess.run(["pip", "install", "streamlit"])
 
 from google.colab import drive
 import torch
