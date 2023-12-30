@@ -1,6 +1,0 @@
-datasets
-transformers
-torch
-accelerate
-nvidia-pyindex
-streamlit
