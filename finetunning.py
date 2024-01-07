@@ -5,7 +5,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 import streamlit as st
 
 # Update with your local file paths
-model_directory = 'C:/Users/pc/Desktop/Semester 7/NLP/MyModels'
+model_directory = 'C:/Users/pc/Desktop/Semester 7/NLP/Project/MyModels'
 
 # Load the fine-tuned GPT-2 model and tokenizer
 model = GPT2LMHeadModel.from_pretrained(model_directory)
