@@ -73,3 +73,5 @@ In future iterations of this project, we aim to implement automatic answering of
 - Integrating the GPT-2 model with a system capable of receiving and processing Whatsapp messages.
 - Building a mechanism to detect and answer pre-trained questions related to banking automatically.
 - Enhancing the chatbot's functionality to provide more comprehensive and accurate responses to banking queries.
+
+**Stay tuned for updates and improvements as we continue to develop and expand the capabilities of this chatbot.**
