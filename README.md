@@ -65,3 +65,11 @@ This project is licensed under the [MIT License](LICENSE).
 - [Hugging Face Transformers](https://github.com/huggingface/transformers)
 - [Streamlit](https://github.com/streamlit/streamlit)
 - [Google Colaboratory](https://colab.research.google.com/)
+
+## Future Work
+
+In future iterations of this project, we aim to implement automatic answering of pre-trained questions from a bank integrated with Whatsapp. Some of the planned steps include:
+
+- Integrating the GPT-2 model with a system capable of receiving and processing Whatsapp messages.
+- Building a mechanism to detect and answer pre-trained questions related to banking automatically.
+- Enhancing the chatbot's functionality to provide more comprehensive and accurate responses to banking queries.
